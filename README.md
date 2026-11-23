@@ -51,7 +51,7 @@
 - Установленный zapret с файлом `bin\winws.exe` и драйвером WinDivert.
 - Права администратора для запуска и остановки обхода. Диагностика и чтение статусов работают без них.
 
-  ## Скачать
+## Скачать
 
 1. Открой [Releases](https://github.com/AshSlave1/zapret-control/releases/latest).
 2. Скачай `ZapretControl.exe` и `SHA256.txt` из блока **Assets** ниже.
@@ -63,7 +63,7 @@
 
 ## Быстрый старт
 
-1. Скачай `ZapretControl.exe` из [Releases](https://github.com/AshSlave1/zapret-control/releases/latest)
+1. Скачай `ZapretControl.exe` из [Releases](https://github.com/AshSlave1/zapret-control/releases/latest).
 2. Укажи папку zapret: **Настройки → Обзор → Применить**. Если папка лежит рядом, попробуй **Определить**.
 3. Выбери стратегию на вкладке **Стратегии**.
 4. Нажми **Запустить обход**. Для запуска `winws.exe` приложение предложит перезапуск с правами администратора.
