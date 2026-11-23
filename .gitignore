@@ -1,0 +1,28 @@
+# Build output
+bin/
+obj/
+publish/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Local data
+*.log
+config.json
+speed-history.csv
+status-history.csv
+backups/
+data/
+portable.flag
+
+# Temporary
+*.tmp
+*.bak
